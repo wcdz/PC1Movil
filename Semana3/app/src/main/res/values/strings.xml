@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Semana03</string>
+    <string name="index_title_1">Rick and Morty</string>
+    <string name="index_title_2">Enjoy the experience</string>
+    <string name="index_title_3">Comming soon</string>
+    <string name="index_button">Go</string>
+</resources>

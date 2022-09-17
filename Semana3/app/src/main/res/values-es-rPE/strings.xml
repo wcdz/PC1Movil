@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="index_title_1">Rick y Morty</string>
+    <string name="index_title_2">Disfruta la experiencia</string>
+    <string name="index_title_3">Próximamente</string>
+    <string name="index_button">Ir</string>
+</resources>
